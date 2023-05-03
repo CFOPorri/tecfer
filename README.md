@@ -12,4 +12,5 @@ Soy el carpintero informático.
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
-Y alguna más...
+Y alguna cosa más...
+

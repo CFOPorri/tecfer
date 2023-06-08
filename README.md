@@ -1,4 +1,4 @@
-# Mi nombre es Carlos Fernandez
+# Mi nombre es Carlos F.
 
 Soy el carpintero informático.
 

@@ -1,6 +1,9 @@
 # Mi nombre es Carlos F.
 
-Soy el carpintero informático.
+Soy entusiasta de la tecnología en general, desde pequeño si algo tenia enchufe o pilas llamaba mi atención. 
+Hay dos tipos de personas las que tienen juguetes de cuando eran pequeños y los que los desmontaban para ver el interior y averiguar como funcionaban…
+
+Como puedes suponer soy del segundo tipo y ahora le ha tocado el turno al software...  entre mis aficiones también entran iot, esp8266/32, drones, impresión 3D, etc.
 
 ## Tecnologías:
 

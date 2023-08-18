@@ -17,7 +17,10 @@ Como puedes suponer soy del segundo tipo y ahora le ha tocado el turno al softwa
 
 Y alguna cosa más...
 
-[![webtrees](https://img.shields.io/badge/Web-tecfer.es-blue?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://tecfer.es)
+[![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=tecfer.es&color=21759B&logo=WordPress&logoColor=FFFFFF&label=Web)](https://tecfer.es)
 [![YouTube](https://img.shields.io/badge/YouTube-DIYKN-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@DIYKN)
+[![webtrees](https://img.shields.io/badge/Web-thingiverse.com/tecfer-blue?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.thingiverse.com/tecfer/designs)
+[![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Tecfer&color=53A318&logo=Google+Play&logoColor=FFFFFF&label=Google+play)](https://play.google.com/store/apps/developer?id=Tecfer)
+
 
 

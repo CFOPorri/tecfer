@@ -17,3 +17,7 @@ Como puedes suponer soy del segundo tipo y ahora le ha tocado el turno al softwa
 
 Y alguna cosa más...
 
+[![webtrees](https://img.shields.io/badge/Web-tecfer.es-blue?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://tecfer.es)
+[![YouTube](https://img.shields.io/badge/YouTube-DIYKN-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@DIYKN)
+
+
